@@ -12,7 +12,7 @@ set(num1)
 `set`의 특징은 1) 중복이 없고, 2) 순서가 없다는 것이다.
 
 ## 교집합 (intersection)
-<img src="images/intersection.png" style="width:500px;">
+<img src="./images/intersection.png" style="width:500px;">
 교집합을 구할 때도 `set`을 사용한다. 두 리스트에서 서로 겹치는 값들만 추출하고 싶을 때 교집합을 구한다. 
 
 ```python
@@ -31,7 +31,7 @@ num1.intersection(num2) # num2.intersection(num1) 해도 같다
 
 
 ## 합집합 (union)
-<img src="images/union.png" style="width:500px;">
+<img src="./images/union.png" style="width:500px;">
 합집합 구할 때도 `set`을 사용한다. 합집합은 두 리스트 모든 데이터를 하나로 묶는 것을 말한다. 
 
 ```python
