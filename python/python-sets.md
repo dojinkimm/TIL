@@ -16,6 +16,7 @@ set(num1)
 <img src="./images/intersection.png" width=300>
 </div>
 
+
 교집합을 구할 때도 `set`을 사용한다. 두 리스트에서 서로 겹치는 값들만 추출하고 싶을 때 교집합을 구한다. 
 
 ```python
